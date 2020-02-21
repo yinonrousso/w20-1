@@ -18,7 +18,7 @@ a basic R-Type instruction datapath.
 
 ### Build a MIPS instruction decoder in PyRTL
 
-You will be using the PyRTL library just like you did in [lab03](/w20/lab/lab03.md) and [lab05](/w20/lab/lab05.md).
+You will be using the PyRTL library just like you did in [lab03](/w20/lab/lab03/) and [lab05](/w20/lab/lab05/).
 
 The goal of this lab is to build (part of) the datapath of a single-cycle 32 bit MIPS processor using PyRTL. Here's what you need to know:
 
